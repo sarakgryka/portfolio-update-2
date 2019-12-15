@@ -176,32 +176,50 @@ h1 {
     text-transform: uppercase;
   }
   
-  .form-control{
-    border-top:none !important;
-    border-left: none !important;
-    border-right: none !important;
-    border-bottom: 2px solid rgb(28, 103, 126)3 !important;
-  }
+ 
   
   .fa-chevron-right{
     margin-left: 25px;
   }
   
-  .jobcard {
-    border: 2px solid #F2F2F2 !important;
-    margin-bottom: 25px;
-    margin-top: 20px;
-  }
   
-  .search-form{
-    margin-left: 300px;
-  }
+
   
   .no-hero{
   margin-top: 60px;
   margin-bottom: 80px;
   }
   
-  .form-group{
-    padding-bottom: 10px;
-  }
+
+  .portImg {
+
+    width: 300px; 
+    height: 200px
+}
+
+.titlePort {
+
+
+    
+    padding-right: 50px;
+}
+
+.portButt {
+
+    padding-top: 50px;
+}
+
+.portButtons {
+
+    width: 100px;
+}
+.portDivs {
+
+  border: rgb(255, 255, 255) solid 3px;
+  border-radius: 25px;
+  background: dimgray;
+  
+
+
+
+}
